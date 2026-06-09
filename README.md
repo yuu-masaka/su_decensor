@@ -1,6 +1,9 @@
 for the doujin 'Ueta Succubus Ikka wa Seiheki o Kojirasete iru; lit: The Succubus Family's Sexual Fetishes are getting out of Hand' by Kazuhiro;  
 trying to copy text bubbles from censored eng translation to ai [ugh] decensored chinese translation.  
 
+pg 8-36 r done  
+
+  
 workflow:  
 drop the desired page's eng image onto photopea window, drop chinese page as a layer under the eng layer, use the alternative version of magic wand called quick/smart select on the eng bubbles, ctrl+j to copy into new layer, reselect eng layer and repeat for every bubble on the page. then hide the eng layer and hit export  
   
